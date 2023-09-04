@@ -1,0 +1,21 @@
+<article class="element-card">
+  <div class="element-card__image-wrapper">
+    <img class="element__image" src="{{ element.data.image }}" alt="{{ element.data.imageAlt }}">
+  </div>
+  <div class="element-card__body">
+    <div class="element-card__tags">
+      {% for tag in element.data.tech %}
+        <span class="element-card__tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    <h3 class="element-card__title">
+      <a href="{{ element.url }}">{{ element.data.title }}</a>
+    </h3>
+    <p class="element-card__summary">{{ element.data.summary }}</p>
+    <a class="element-card__link" href="{{ element.url }}">Read about each element 
+      <svg xmlns="http://www.w3.org/2000/svg" class="element-card__link-icon" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
+      </svg>
+    </a>
+  </div>
+</article>

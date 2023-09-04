@@ -1,0 +1,8 @@
+<section class="elements">
+  <h2 class="element__heading">First four elements</h2>
+  <div class="element-grid">
+    {% for element in collections.elements %}
+      {% include "element-card.njk" %}
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,13 @@
+---
+layout: "base.njk"
+---
+
+<div class="element">
+  <h2 class="element__heading">{{ title }}</h2>
+  <div class="element__image-wrapper">
+      <img class="element__image" src="{{ image }}" alt="{{ imageAlt }}">
+  </div>
+  <div class="element__content prose">
+    {{ content | safe }}
+  </div>
+</div>
