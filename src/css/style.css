@@ -139,6 +139,13 @@ a {
   color: var(--amber-600);
 }
 
+.tagline {
+  padding: 1rem 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--amber-600);
+}
+
 /* Profile Styles */
 .profile {
   display: flex;
