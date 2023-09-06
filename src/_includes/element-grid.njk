@@ -1,8 +1,8 @@
 <section class="elements">
   <h2 class="element__heading">The first four elements.</h2>
   <div class="element-grid">
-    {% for element in collections.elements %}
-      {% include "element-card.njk" %}
+    {% for elementProperty in ElementProperties1 %}
+      {% include "element-card-new.njk" %}
     {% endfor %}
   </div>
 </section>
