@@ -1,0 +1,794 @@
+[
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.012 1831(5)",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.0121831",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.012",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.0121831(5)",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "[He]2s2 ",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "153 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "96(3) pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+2",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+2, +1 ​(an amphoteric oxide)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "1S0",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "9.323 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "9.322699 ± 0.000007 eV",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Solid",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "2",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "2 - Alkaline Earth Metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "1.85 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "1560 K (1287°C or 2349°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "1287°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "2744 K (2471°C or 4480°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "2469°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "2.8 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "5.6×10-6 milligrams per liter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "[6.938, 6.997]",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "6.941",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "6.94",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "[6.938,6.997]",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "[He]2s1 ",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "182 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "128(7) pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+1 ​(a strongly basic oxide)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "2S1/2",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "5.392 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "5.391714996 ± 0.000000022 eV",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Solid",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "2",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "1 - Alkali Metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "0.534 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "453.65 K (180.50°C or 356.90°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "180.5°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "1615 K (1342°C or 2448°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "1330°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "2.0×101 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "3",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Lithium",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "1.8×10-1 milligrams per liter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.002 602(2)",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.002602",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.003",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.002602(2)",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "1s2 ",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "140 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "28 pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "0",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "0",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "1S0",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "24.587 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "24.587389011 ± 0.000000025 eV",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Gas",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Non-metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "18 - Noble Gas",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "0.0001785 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "0.95 K (-272.2°C or -458.0°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "-272.2°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "4.22 K (-268.93°C or -452.07°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "-268.93°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "8×10-3 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "7×10-6 milligrams per liter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "[1.007 84, 1.008 11]",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "1.00794",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "1.008",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "[1.00784,1.00811]",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "1s1",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "120 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "31(5) pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+1, -1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "−1, +1 ​(an amphoteric oxide)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "2S1/2",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "13.598 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "13.598434599702 ± 0.000000000012 eV  (Theoretical value.)",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Gas",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Non-metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "0.00008988 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "13.81 K (-259.34°C or -434.81°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "-259.16°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "20.28 K (-252.87°C or -423.17°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "1.40×103 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "1.08×105 milligrams per liter",
+    "ReferenceNumber" : "5"
+}
+]
