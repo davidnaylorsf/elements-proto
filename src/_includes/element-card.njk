@@ -3,11 +3,6 @@
     <img class="element__image" src="{{ element.data.image }}" alt="{{ element.data.imageAlt }}">
   </div>
   <div class="element-card__body">
-    <div class="element-card__tags">
-      {% for tag in element.data.tech %}
-        <span class="element-card__tag">{{ tag }}</span>
-      {% endfor %}
-    </div>
     <h3 class="element-card__title">
       <a href="{{ element.url }}">{{ element.data.title }}</a>
     </h3>
