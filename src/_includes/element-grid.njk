@@ -1,4 +1,8 @@
 <section class="elements">
+  {% set filenameBase = "Element" %}
+  {% set filename = [filenameBase, "1"] | join %}
+  <p> {{filenameBase}} </p>
+  <p> {{filename}} </p>
   <h2 class="element__heading">Properties of the first four elements.</h2>
   <p class="tagline" >{{Element1[0].ElementName}}:</p>
   <div class="element-grid">
