@@ -1,6 +1,7 @@
 <article class="element-card">
   <div class="element-card__body">
-   <p>{{ elementProperty.ElementName }}</p>
-   <p> {{ elementProperty.PropertyName }}: {{ elementProperty.PropertyValueString }}</p>
+    {% for element in Element1 %}
+   <p> {{ element.PropertyName }}: {{ element.PropertyValueString }}</p>
+   {% endfor %}
    </div>
 </article>
