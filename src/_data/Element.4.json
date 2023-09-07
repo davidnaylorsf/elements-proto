@@ -1,0 +1,202 @@
+[
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.012 1831(5)",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.0121831",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.012",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "9.0121831(5)",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "[He]2s2 ",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "153 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "96(3) pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+2",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+2, +1 ​(an amphoteric oxide)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "1S0",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "9.323 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "9.322699 ± 0.000007 eV",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Solid",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "2",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "2 - Alkaline Earth Metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "1.85 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "1560 K (1287°C or 2349°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "1287°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "2744 K (2471°C or 4480°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "2469°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "2.8 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "4",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Beryllium",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "5.6×10-6 milligrams per liter",
+    "ReferenceNumber" : "5"
+}
+]

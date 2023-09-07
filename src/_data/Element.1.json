@@ -1,0 +1,194 @@
+[
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "[1.007 84, 1.008 11]",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "1.00794",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "1.008",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "[1.00784,1.00811]",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "1s1",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "120 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "31(5) pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "+1, -1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "−1, +1 ​(an amphoteric oxide)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "2S1/2",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "13.598 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "13.598434599702 ± 0.000000000012 eV  (Theoretical value.)",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Gas",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Non-metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "0.00008988 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "13.81 K (-259.34°C or -434.81°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "-259.16°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "20.28 K (-252.87°C or -423.17°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "1.40×103 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "1",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Hydrogen",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "1.08×105 milligrams per liter",
+    "ReferenceNumber" : "5"
+}
+]

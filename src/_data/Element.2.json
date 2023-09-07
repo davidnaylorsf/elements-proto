@@ -1,0 +1,202 @@
+[
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.002 602(2)",
+    "ReferenceNumber" : "3"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.002602",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.003",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Weight",
+    "PropertyValueString" : "4.002602(2)",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Electron Configuration",
+    "PropertyValueString" : "1s2 ",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "140 pm (Van der Waals)",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Radius",
+    "PropertyValueString" : "28 pm (Covalent)",
+    "ReferenceNumber" : "9"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "0",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Oxidation States",
+    "PropertyValueString" : "0",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Ground Level",
+    "PropertyValueString" : "1S0",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "24.587 eV",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Ionization Energy",
+    "PropertyValueString" : "24.587389011 ± 0.000000025 eV",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Lines Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Atomic Spectra",
+    "PropertyValueString" : "Levels Holdings",
+    "ReferenceNumber" : "7"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Physical Description",
+    "PropertyValueString" : "Gas",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Element Classification",
+    "PropertyValueString" : "Non-metal",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Element Period Number",
+    "PropertyValueString" : "1",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Element Group Number",
+    "PropertyValueString" : "18 - Noble Gas",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Density",
+    "PropertyValueString" : "0.0001785 grams per cubic centimeter",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "0.95 K (-272.2°C or -458.0°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Melting Point",
+    "PropertyValueString" : "-272.2°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "4.22 K (-268.93°C or -452.07°F)",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Boiling Point",
+    "PropertyValueString" : "-268.93°C",
+    "ReferenceNumber" : "6"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Estimated Crustal Abundance",
+    "PropertyValueString" : "8×10-3 milligrams per kilogram",
+    "ReferenceNumber" : "5"
+},
+{
+    "RecordNumber" : "2",
+    "RecordType" : "AtomicNumber",
+    "ElementName" : "Helium",
+    "PropertyName" : "Estimated Oceanic Abundance",
+    "PropertyValueString" : "7×10-6 milligrams per liter",
+    "ReferenceNumber" : "5"
+}
+]
