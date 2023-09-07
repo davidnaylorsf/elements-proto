@@ -4,11 +4,7 @@ layout: "base.njk"
 ---
 
 <h2 class="elements__heading">Properties of the first four elements</h2>
-<p>
-  {{elementProperty.RecordType}}
-</p>
+<p class="tagline" >{{Element1[0].ElementName}}:</p>
 <div class="element-list">
-  {% for elementProperty in ElementProperties1 %}
     {% include "element-card-new.njk" %}
-  {% endfor %}
 </div>
