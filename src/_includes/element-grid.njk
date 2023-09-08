@@ -2,27 +2,19 @@
 <section class="elements">
   <h2 class="element__heading">Properties of the first four elements.</h2>
 
-  {% set arr = [] %}
+  {% set filenameArray = [] %}
   {% set filenameBase = "Element" %}
   {% for i in range(1, 5) %}
     {% set filename = ([filenameBase, i] | join )%}
-    {% set arr =  ( arr.push(filename), arr ) %}
+    {% set filenameArray =  ( filenameArray.push(filename), filenameArray ) %}
   {% endfor %}
  
- {% set elementPropertiesArray = [ Elements.Element1, Elements.Element2, Elements.Element3, Elements.Element4 ] %}
-
-  {% for arrayElement in arr %}
-    {%- set arrayMember = Elements[arrayElement] %}
+  {% for filenameArrayItem in filenameArray %}
+    {%- set elementPropertyData = Elements[filenameArrayItem] %}
     <div class="element-grid">
-      {{ propertyCard.card( arrayMember ) }}
+      {{ propertyCard.card( elementPropertyData ) }}
     </div>
   {% endfor %}
 
-
-  {% for elementPropertySet in elementPropertiesArray %}
-    <div class="element-grid">
-      {{ propertyCard.card( elementPropertySet ) }}
-    </div>
-  {% endfor %}
 
 </section>
