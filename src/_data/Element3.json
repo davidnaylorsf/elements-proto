@@ -1,4 +1,4 @@
-{ "arrayContent": [
+[
 {
     "RecordNumber" : "3",
     "RecordType" : "AtomicNumber",
@@ -200,4 +200,3 @@
     "ReferenceNumber" : "5"
 }
 ]
-}

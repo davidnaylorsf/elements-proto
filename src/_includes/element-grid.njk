@@ -3,30 +3,14 @@
   <h2 class="element__heading">Properties of the first four elements.</h2>
  
  {% set elementPropertiesArray = [ Element1, Element2, Element3, Element4 ] %}
- {% set firstSetOfElementPropertySets = elementPropertiesArray[0] %}
- {% set firstPropertySet = firstSetOfElementPropertySets[0] %}
- <p> _ElementName is: {{firstPropertySet.ElementName}} </p>
 
-{% set filename = elementPropertiesArray[0] %}
-{% set firstProperty = filename[0] %}
-<p class="tagline" >ElementName: {{firstProperty.ElementName}} </p>
-  <div class="element-grid">
-    {{ propertyCard.card( filename ) }}
-  </div>
+  {%- for elementPropertySet in elementPropertiesArray %}
 
-{% set filename = Element1 %}
-{% set firstProperty = filename[0] %}
-<p class="tagline" >ElementName: {{firstProperty.ElementName}} </p>
-  <div class="element-grid">
-    {{ propertyCard.card( filename ) }}
-  </div>
+    <div class="element-grid">
+      {{ propertyCard.card( elementPropertySet ) }}
+    </div>
 
-{% set filename = Element2 %}
-{% set firstProperty = filename[1] %}
-<p class="tagline" >ElementName: {{firstProperty.ElementName}} </p>
-  <div class="element-grid">
-    {{ propertyCard.card( filename ) }}
-  </div>
+  {%- endfor %}
 
 
 </section>
