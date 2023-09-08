@@ -1,16 +1,28 @@
 {% import "element-card-macro.njk" as propertyCard %}
 <section class="elements">
   <h2 class="element__heading">Properties of the first four elements.</h2>
+
+  {% set arr = [] %}
+  {% set filenameBase = "Element" %}
+  {% for i in range(1, 5) %}
+    {% set filename = ([filenameBase, i] | join )%}
+    {% set arr =  ( arr.push(filename), arr ) %}
+  {% endfor %}
  
- {% set elementPropertiesArray = [ Element1, Element2, Element3, Element4 ] %}
+ {% set elementPropertiesArray = [ Elements.Element1, Elements.Element2, Elements.Element3, Elements.Element4 ] %}
 
-  {%- for elementPropertySet in elementPropertiesArray %}
+  {% for arrayElement in arr %}
+    {%- set arrayMember = Elements[arrayElement] %}
+    <div class="element-grid">
+      {{ propertyCard.card( arrayMember ) }}
+    </div>
+  {% endfor %}
 
+
+  {% for elementPropertySet in elementPropertiesArray %}
     <div class="element-grid">
       {{ propertyCard.card( elementPropertySet ) }}
     </div>
-
-  {%- endfor %}
-
+  {% endfor %}
 
 </section>
