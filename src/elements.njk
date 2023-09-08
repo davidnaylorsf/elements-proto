@@ -2,9 +2,20 @@
 title: "Elements"
 layout: "base.njk"
 ---
+{% import "element-card-macro.njk" as propertyCard %}
 
 <h2 class="elements__heading">Properties of the first four elements</h2>
-<p class="tagline" >{{Element1[0].ElementName}}:</p>
-<div class="element-list">
-    {% include "element-card-new.njk" %}
-</div>
+
+  {% set filenameArray = [] %}
+  {% set filenameBase = "Element" %}
+  {% for i in range(1, 5) %}
+    {% set filename = ([filenameBase, i] | join )%}
+    {% set filenameArray =  ( filenameArray.push(filename), filenameArray ) %}
+  {% endfor %}
+ 
+  {% for filenameArrayItem in filenameArray %}
+    {%- set elementPropertyData = Elements[filenameArrayItem] %}
+    <div class="element-grid">
+      {{ propertyCard.card( elementPropertyData ) }}
+    </div>
+  {% endfor %}
