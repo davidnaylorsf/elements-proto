@@ -10,9 +10,9 @@
   {% endfor %}
  
   {% for filenameArrayItem in filenameArray %}
-    {%- set elementPropertyData = Elements[filenameArrayItem] %}
+    {%- set elementPropertyDataFilename = Elements[filenameArrayItem] %}
     <div class="element-grid">
-      {{ propertyCard.card( elementPropertyData ) }}
+      {{ propertyCard.card( elementPropertyDataFilename ) }}
     </div>
   {% endfor %}
 
