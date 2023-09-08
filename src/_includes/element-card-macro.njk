@@ -1,7 +1,9 @@
 {% macro card(filename) %}
 
 <article class="element-card">
+
   <div class="element-card__body">
+    <p class="tagline" >Element: {{filename[0].ElementName}} </p>
     {%- for elementProperty in filename %}
       <p> {{ elementProperty.PropertyName }}: {{ elementProperty.PropertyValueString }}</p>
     {%- endfor %}
